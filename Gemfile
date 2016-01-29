@@ -36,3 +36,7 @@ group :production do
   gem 'rails_12factor', '0.0.2'
   gem 'puma',           '2.11.1'
 end
+
+# スマホ対応
+# gem 'jpmobile'
+
